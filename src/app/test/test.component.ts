@@ -19,8 +19,8 @@ export class TestComponent implements OnInit {
       {property: 'og:site_name', content: 'Satt Welcome page'},
       {property: 'og:title', content: 'Satt Welcome page'},
       {property: 'og:description', content: 'Satt Welcome page'},
-      {property: 'og:image', content: 'https://satt-token.com/assets/img/index/farm_post.png'},
-      {property: 'og:image:secure_url', content: 'https://satt-token.com/assets/img/index/farm_post.png'},
+      {property: 'og:image', content: 'https://satt-token.com/assets/img/index/adpools.png'},
+      {property: 'og:image:secure_url', content: 'https://satt-token.com/assets/img/index/adpools.png'},
     ]);
     this.title.setTitle( 'Home SATT Page' );
 
